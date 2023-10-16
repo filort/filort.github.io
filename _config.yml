@@ -88,9 +88,14 @@ links:
       icon: fab fa-google-plus
   - twitter:
       name: Twitter
-      show: true
+      show: false
       href: https://twitter.com/FilipHort
       icon: fab fa-twitter
+  - mastodon:
+      name: Mastodon
+      show: true
+      href: https://moth.social/@filort
+      icon: fas fa-mastodon
   - weibo:
       name: 微博
       show: false
