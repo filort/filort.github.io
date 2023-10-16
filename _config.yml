@@ -23,7 +23,7 @@ title:
 # 'description' and 'keywords' simply set the corresponding meta tags,
 # 'crawl' is the 'Robots' tag http://www.robotstxt.org/meta.html
 robots:
-    description: One line of text describing the content of the page in less than 140 characters.
+    description: Homepage of Filip Hort
     keywords: foo, bar, baz
     crawl: index,follow
 
@@ -95,7 +95,7 @@ links:
       name: Mastodon
       show: true
       href: https://moth.social/@filort
-      icon: fas fa-mastodon
+      icon: fab fa-mastodon
   - weibo:
       name: 微博
       show: false
